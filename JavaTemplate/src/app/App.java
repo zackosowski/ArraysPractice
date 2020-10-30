@@ -3,8 +3,12 @@
     
     Create a program that asks the user to enter a planet.
     After the user enters a name of a planet, the program should print out that planet's position relative to the sun.
-    You may only use one if statement and one for loop to complete this practice problem.
+    An image showing the position of every planet is in the explorer to the left.
     When finished with this practice, move on to the assignment "ArraysChallenge"
+
+    LIMITAITONS
+    No more than one if statement
+    No more than one for loop
 
     EXAMPLE:
 
