@@ -4,7 +4,6 @@
     Create a program that asks the user to enter a planet.
     After the user enters a name of a planet, the program should print out that planet's position relative to the sun.
     An image showing the position of every planet is in the explorer to the left.
-    When finished with this practice, move on to the assignment "ArraysChallenge"
 
     LIMITAITONS
     No more than one if statement
@@ -25,12 +24,10 @@
     
 */
 
-
 package app;
+
 
 public class App {
     public static void main(String[] args) throws Exception {
-        
-
     }
 }
